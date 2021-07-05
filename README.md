@@ -1,6 +1,6 @@
 # Auto Bumper
 
-- Automatically Bump your Server on Bot Listing Servers. (Example: DISBOARD)
+- Automatically Bump your Server on Bot Listing Servers. Ability to login with a User Token. Customizable Interval and Message!
 
 # Config.json
 
