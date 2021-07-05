@@ -1,0 +1,6 @@
+{
+  "token": "TOKEN",
+  "channel": "CHANNELID",
+  "message": "!d bump",
+  "interval": "7201000"
+}
